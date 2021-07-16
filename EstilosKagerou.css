@@ -1,0 +1,30 @@
+p,li {
+	color: black;
+	font-size: 20px;
+	line-height: 1;
+}
+h1{
+	font-size: 50px;
+	text-align: center;
+	margin: 0;
+	color: #5F261E;
+	text-shadow: 2px 0 0 black;
+}
+html{
+	background-color: #E62207;
+}
+body{
+	background-color: #F75A44;
+	width: 880px;
+	margin: 0 auto;
+	padding: 0 10px 0 20px;
+	border: 5px solid black;
+}
+img {
+	margin: 0 auto;
+	display: block;
+}
+a {
+	text-align: right;
+	display: block;
+}
